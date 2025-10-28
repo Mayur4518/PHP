@@ -1,0 +1,43 @@
+.container{
+                  border:2px solid black;
+                  }
+ .col-4{
+           background-color:red;
+           height:200px;
+           }
+ .col-8{
+           background-color:yellow;
+          }
+ .col-3{
+            background-color:green;
+           }
+ .c1{
+       background-color:blue;
+       }
+ .c2{
+       background-color:orange;
+       }
+ .c3{
+       background-color:brown;
+       }
+ .r1{
+      background-color:pink;
+      height:200px;
+      }
+.r2{
+     background-color:cyan;
+     height:200px;
+     }
+.r3{
+     background-color:purple;
+     height:133px;
+    }
+.r4{
+      background-color:grey;
+      height:133px;
+      }
+.r5{
+      background-color:black;
+      height:134px;
+     }
+       

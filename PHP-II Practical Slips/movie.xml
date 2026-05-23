@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<movieinfo>
+  <movie>
+     <mno>101</mno>
+     <mtitle>Dhurandhar</mtitle>
+     <aname>Akshay Khanna</aname>
+     <releaseyear>2025</releaseyear>
+  </movie>
+ <movie>
+     <mno>102</mno>
+      <mtitle>Dhurandhar-The Revenge</mtitle>
+      <aname>Ranveer Singh</aname>
+     <releaseyear>2026</releaseyear>
+ </movie>
+ <movie>
+     <mno>103</mno>
+     <mtitle>Chhava</mtitle>
+     <aname>Vicky Kaushal</aname>
+     <releaseyear>2024</releaseyear>
+  </movie>
+</movieinfo>

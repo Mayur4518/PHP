@@ -1,0 +1,18 @@
+<?xml  version="1.0" ?>
+<movie>
+<category name="classical">
+<mtitle>Dhurandhar</mtitle>
+<aname>Akshay Khanna</aname>
+<releaseyear>2025</releaseyear>
+</category>
+<category name="horror">
+<mtitle>Dhurandhar-The Revenge</mtitle>
+<aname>Ranveer Singh</aname>
+<releaseyear>2026</releaseyear>
+</category>
+<category name="action">
+<mtitle>Chhava</mtitle>
+<aname>Vicky Kaushal</aname>
+<releaseyear>2024</releaseyear>
+</category>
+</movie>
